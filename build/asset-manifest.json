@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/samurai-course/static/css/main.3aaf389b.chunk.css",
+    "main.js": "/samurai-course/static/js/main.4310a94b.chunk.js",
+    "main.js.map": "/samurai-course/static/js/main.4310a94b.chunk.js.map",
+    "runtime-main.js": "/samurai-course/static/js/runtime-main.1180fb70.js",
+    "runtime-main.js.map": "/samurai-course/static/js/runtime-main.1180fb70.js.map",
+    "static/js/2.51137cf6.chunk.js": "/samurai-course/static/js/2.51137cf6.chunk.js",
+    "static/js/2.51137cf6.chunk.js.map": "/samurai-course/static/js/2.51137cf6.chunk.js.map",
+    "static/css/3.bcfbcfea.chunk.css": "/samurai-course/static/css/3.bcfbcfea.chunk.css",
+    "static/js/3.cb80659a.chunk.js": "/samurai-course/static/js/3.cb80659a.chunk.js",
+    "static/js/3.cb80659a.chunk.js.map": "/samurai-course/static/js/3.cb80659a.chunk.js.map",
+    "static/css/4.4970cbd2.chunk.css": "/samurai-course/static/css/4.4970cbd2.chunk.css",
+    "static/js/4.14149664.chunk.js": "/samurai-course/static/js/4.14149664.chunk.js",
+    "static/js/4.14149664.chunk.js.map": "/samurai-course/static/js/4.14149664.chunk.js.map",
+    "static/js/5.611b7efb.chunk.js": "/samurai-course/static/js/5.611b7efb.chunk.js",
+    "static/js/5.611b7efb.chunk.js.map": "/samurai-course/static/js/5.611b7efb.chunk.js.map",
+    "index.html": "/samurai-course/index.html",
+    "static/css/3.bcfbcfea.chunk.css.map": "/samurai-course/static/css/3.bcfbcfea.chunk.css.map",
+    "static/css/4.4970cbd2.chunk.css.map": "/samurai-course/static/css/4.4970cbd2.chunk.css.map",
+    "static/css/main.3aaf389b.chunk.css.map": "/samurai-course/static/css/main.3aaf389b.chunk.css.map",
+    "static/js/2.51137cf6.chunk.js.LICENSE.txt": "/samurai-course/static/js/2.51137cf6.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/samurai-course/static/media/avatar.5760d89e.png",
+    "static/media/cnn-news18-india-network18.a07552f0.png": "/samurai-course/static/media/cnn-news18-india-network18.a07552f0.png",
+    "static/media/disc-jockey-graphy-speaker-trend-electronics-computer-wallpaper-recording-studio.c6d6da86.png": "/samurai-course/static/media/disc-jockey-graphy-speaker-trend-electronics-computer-wallpaper-recording-studio.c6d6da86.png",
+    "static/media/preloader.88ce03e1.svg": "/samurai-course/static/media/preloader.88ce03e1.svg",
+    "static/media/settings-image.be0fa85a.jpg": "/samurai-course/static/media/settings-image.be0fa85a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1180fb70.js",
+    "static/js/2.51137cf6.chunk.js",
+    "static/css/main.3aaf389b.chunk.css",
+    "static/js/main.4310a94b.chunk.js"
+  ]
+}
